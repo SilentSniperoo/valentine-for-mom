@@ -1,0 +1,23 @@
+// Each line is a blurb to be rendered by the HeartContent component
+// Lines starting with "//" are ignored
+// <Font,Courier>
+//  Forces the text to use the font named "Courier"
+// <Background,Heart>
+//  Renders the image named "Heart" as the background
+// <Image,Heart,23,45,67,89>
+//  Renders the image named "Heart" with min x=23, y=45 and max x=67, y=89
+<Image,0o,0.25,0.25,0.75,0.75>
+<Background,0n>I <Image,0o,0.3,0,0.6,1> U
+<Background,0n><Font,Parchment>Family
+<Background,0n>Love
+<Background,0n>Mom
+<Background,0n>Everything
+<Background,0n>Always
+<Background,0n>Forever
+<Background,0n>Valentine
+<Background,0n>U R Beautiful
+<Background,0n>You are a Poem
+<Background,0n>Like a Rose
+<Background,0n>I O U Everything
+<Background,0n>Words can't express
+<Background,0n>What I'm saying is this
